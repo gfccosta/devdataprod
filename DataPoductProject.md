@@ -32,12 +32,12 @@ Students application over years
 &lt;meta charset = &#039;utf-8&#039;&gt;
 &lt;html&gt;
   &lt;head&gt;
-    &lt;link rel=&#039;stylesheet&#039; href=&#039;http://nvd3.org/assets/css/nv.d3.css&#039;&gt;
+    &lt;link rel=&#039;stylesheet&#039; href=&#039;//cdnjs.cloudflare.com/ajax/libs/nvd3/1.1.15-beta/nv.d3.min.css&#039;&gt;
     
-    &lt;script src=&#039;http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js&#039; type=&#039;text/javascript&#039;&gt;&lt;/script&gt;
-    &lt;script src=&#039;http://d3js.org/d3.v3.min.js&#039; type=&#039;text/javascript&#039;&gt;&lt;/script&gt;
-    &lt;script src=&#039;http://timelyportfolio.github.io/rCharts_nvd3_tests/libraries/widgets/nvd3/js/nv.d3.min-new.js&#039; type=&#039;text/javascript&#039;&gt;&lt;/script&gt;
-    &lt;script src=&#039;http://nvd3.org/assets/lib/fisheye.js&#039; type=&#039;text/javascript&#039;&gt;&lt;/script&gt;
+    &lt;script src=&#039;//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js&#039; type=&#039;text/javascript&#039;&gt;&lt;/script&gt;
+    &lt;script src=&#039;//d3js.org/d3.v3.min.js&#039; type=&#039;text/javascript&#039;&gt;&lt;/script&gt;
+    &lt;script src=&#039;//cdnjs.cloudflare.com/ajax/libs/nvd3/1.1.15-beta/nv.d3.min.js&#039; type=&#039;text/javascript&#039;&gt;&lt;/script&gt;
+    &lt;script src=&#039;//nvd3.org/assets/lib/fisheye.js&#039; type=&#039;text/javascript&#039;&gt;&lt;/script&gt;
     
     &lt;style&gt;
     .rChart {
@@ -52,21 +52,21 @@ Students application over years
   &lt;/head&gt;
   &lt;body &gt;
     
-    &lt;div id = &#039;chart12b228cce8bf&#039; class = &#039;rChart nvd3&#039;&gt;&lt;/div&gt;    
+    &lt;div id = &#039;chart7b4257fa4b46&#039; class = &#039;rChart nvd3&#039;&gt;&lt;/div&gt;    
     &lt;script type=&#039;text/javascript&#039;&gt;
  $(document).ready(function(){
-      drawchart12b228cce8bf()
+      drawchart7b4257fa4b46()
     });
-    function drawchart12b228cce8bf(){  
+    function drawchart7b4257fa4b46(){  
       var opts = {
- &quot;dom&quot;: &quot;chart12b228cce8bf&quot;,
+ &quot;dom&quot;: &quot;chart7b4257fa4b46&quot;,
 &quot;width&quot;:    800,
 &quot;height&quot;:    350,
 &quot;x&quot;: &quot;year&quot;,
 &quot;y&quot;: &quot;count&quot;,
 &quot;group&quot;: &quot;course&quot;,
 &quot;type&quot;: &quot;multiBarChart&quot;,
-&quot;id&quot;: &quot;chart12b228cce8bf&quot; 
+&quot;id&quot;: &quot;chart7b4257fa4b46&quot; 
 },
         data = [
  {
@@ -261,7 +261,7 @@ Students application over years
     
     &lt;script&gt;&lt;/script&gt;    
   &lt;/body&gt;
-&lt;/html&gt; ' scrolling='no' frameBorder='0' seamless class='rChart  nvd3  ' id='iframe-chart12b228cce8bf'> </iframe>
+&lt;/html&gt; ' scrolling='no' frameBorder='0' seamless class='rChart  nvd3  ' id='iframe-chart7b4257fa4b46'> </iframe>
  <style>iframe.rChart{ width: 100%; height: 400px;}</style>
       
 Classes positions occupied by students
@@ -271,10 +271,10 @@ Classes positions occupied by students
 &lt;meta charset = &#039;utf-8&#039;&gt;
 &lt;html&gt;
   &lt;head&gt;
-    &lt;link rel=&#039;stylesheet&#039; href=&#039;http://tenxer.github.io/xcharts/css/master.css&#039;&gt;
+    &lt;link rel=&#039;stylesheet&#039; href=&#039;//tenxer.github.io/xcharts/css/master.css&#039;&gt;
     
-    &lt;script src=&#039;http://d3js.org/d3.v2.min.js&#039; type=&#039;text/javascript&#039;&gt;&lt;/script&gt;
-    &lt;script src=&#039;http://tenxer.github.io/xcharts/js/xcharts.min.js&#039; type=&#039;text/javascript&#039;&gt;&lt;/script&gt;
+    &lt;script src=&#039;//d3js.org/d3.v2.min.js&#039; type=&#039;text/javascript&#039;&gt;&lt;/script&gt;
+    &lt;script src=&#039;//tenxer.github.io/xcharts/js/xcharts.min.js&#039; type=&#039;text/javascript&#039;&gt;&lt;/script&gt;
     
     &lt;style&gt;
     .rChart {
@@ -289,10 +289,10 @@ Classes positions occupied by students
   &lt;/head&gt;
   &lt;body &gt;
     
-    &lt;figure id = &#039;chart12b25aaa4845&#039; class = &#039;rChart xcharts&#039;&gt;&lt;/figure&gt;    
+    &lt;figure id = &#039;chart7b425fc54147&#039; class = &#039;rChart xcharts&#039;&gt;&lt;/figure&gt;    
     &lt;script type=&#039;text/javascript&#039;&gt;
     var data = {
- &quot;dom&quot;: &quot;chart12b25aaa4845&quot;,
+ &quot;dom&quot;: &quot;chart7b425fc54147&quot;,
 &quot;width&quot;:    800,
 &quot;height&quot;:    300,
 &quot;xScale&quot;: &quot;ordinal&quot;,
@@ -523,14 +523,14 @@ Classes positions occupied by students
 ] 
 } 
 ],
-&quot;id&quot;: &quot;chart12b25aaa4845&quot; 
+&quot;id&quot;: &quot;chart7b425fc54147&quot; 
 },
       chartType = &quot;line-dotted&quot;,
-      myChart = new xChart(chartType, data, &#039;#chart12b25aaa4845&#039;);
+      myChart = new xChart(chartType, data, &#039;#chart7b425fc54147&#039;);
 &lt;/script&gt;
 &lt;style&gt;figure.rChart {height: 400px;}&lt;/style&gt;
     
     &lt;script&gt;&lt;/script&gt;    
   &lt;/body&gt;
-&lt;/html&gt; ' scrolling='no' frameBorder='0' seamless class='rChart  xcharts  ' id='iframe-chart12b25aaa4845'> </iframe>
+&lt;/html&gt; ' scrolling='no' frameBorder='0' seamless class='rChart  xcharts  ' id='iframe-chart7b425fc54147'> </iframe>
  <style>iframe.rChart{ width: 100%; height: 400px;}</style>
