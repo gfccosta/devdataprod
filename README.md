@@ -1,6 +1,6 @@
 #Developing Data Products - Coursera Course Assignment
 
-This repository have the followin files:
+This repository have the following files:
 
 * ihacApp/ui.R
 * ihacApp/server.R
@@ -12,7 +12,7 @@ Basically configures the screen with five checkboxes. The first checkbox filter 
 
 ##ihacApp/server.R
 
-The server is a simple shiny app, its use a reactive function to load the data only if the window lenght is altered. The plot is performed when any parameter changes.
+The server is a simple shiny app, its use a reactive function to load the data only if the filter changes. The plot is performed when any filter selection changes.
 
 ##ihacApp/common.R
 
