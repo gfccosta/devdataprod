@@ -1,0 +1,29 @@
+count,year,course
+242,2009,Arts
+232,2010,Arts
+225,2011,Arts
+242,2012,Arts
+263,2013,Arts
+211,2014,Arts
+250,2015,Arts
+97,2009,"Science and Technology"
+200,2010,"Science and Technology"
+231,2011,"Science and Technology"
+241,2012,"Science and Technology"
+293,2013,"Science and Technology"
+238,2014,"Science and Technology"
+248,2015,"Science and Technology"
+396,2009,Humanities
+318,2010,Humanities
+346,2011,Humanities
+367,2012,Humanities
+430,2013,Humanities
+343,2014,Humanities
+354,2015,Humanities
+99,2009,Health
+205,2010,Health
+227,2011,Health
+253,2012,Health
+293,2013,Health
+271,2014,Health
+259,2015,Health

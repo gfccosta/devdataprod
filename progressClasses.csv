@@ -1,0 +1,53 @@
+count,yearSemester,course
+1183,2009-1,Arts
+999,2009-2,Arts
+1903,2010-1,Arts
+1636,2010-2,Arts
+2483,2011-1,Arts
+2321,2011-2,Arts
+2938,2012-1,Arts
+2424,2012-2,Arts
+3026,2013-1,Arts
+2709,2013-2,Arts
+2643,2014-1,Arts
+2390,2014-2,Arts
+3010,2015-1,Arts
+476,2009-1,"Science and Technology"
+454,2009-2,"Science and Technology"
+1406,2010-1,"Science and Technology"
+1300,2010-2,"Science and Technology"
+2158,2011-1,"Science and Technology"
+1902,2011-2,"Science and Technology"
+2552,2012-1,"Science and Technology"
+2659,2012-2,"Science and Technology"
+2947,2013-1,"Science and Technology"
+3152,2013-2,"Science and Technology"
+3345,2014-1,"Science and Technology"
+3295,2014-2,"Science and Technology"
+3730,2015-1,"Science and Technology"
+1891,2009-1,Humanities
+1503,2009-2,Humanities
+2869,2010-1,Humanities
+2430,2010-2,Humanities
+3803,2011-1,Humanities
+3577,2011-2,Humanities
+4220,2012-1,Humanities
+4123,2012-2,Humanities
+4335,2013-1,Humanities
+4717,2013-2,Humanities
+4791,2014-1,Humanities
+4767,2014-2,Humanities
+5170,2015-1,Humanities
+513,2009-1,Health
+468,2009-2,Health
+1360,2010-1,Health
+1189,2010-2,Health
+2218,2011-1,Health
+2020,2011-2,Health
+2688,2012-1,Health
+2818,2012-2,Health
+3178,2013-1,Health
+3280,2013-2,Health
+3331,2014-1,Health
+3134,2014-2,Health
+3555,2015-1,Health

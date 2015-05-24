@@ -1,0 +1,102 @@
+count,yearSemester,course,status
+193,2009-1,Arts,active
+990,2009-1,Arts,innactive
+176,2009-2,Arts,active
+823,2009-2,Arts,innactive
+417,2010-1,Arts,active
+1486,2010-1,Arts,innactive
+412,2010-2,Arts,active
+1224,2010-2,Arts,innactive
+1040,2011-1,Arts,active
+1443,2011-1,Arts,innactive
+842,2011-2,Arts,active
+1479,2011-2,Arts,innactive
+1637,2012-1,Arts,active
+1301,2012-1,Arts,innactive
+1321,2012-2,Arts,active
+1103,2012-2,Arts,innactive
+2135,2013-1,Arts,active
+891,2013-1,Arts,innactive
+1928,2013-2,Arts,active
+781,2013-2,Arts,innactive
+2222,2014-1,Arts,active
+421,2014-1,Arts,innactive
+2141,2014-2,Arts,active
+249,2014-2,Arts,innactive
+3010,2015-1,Arts,active
+69,2009-1,"Science and Technology",active
+407,2009-1,"Science and Technology",innactive
+74,2009-2,"Science and Technology",active
+380,2009-2,"Science and Technology",innactive
+348,2010-1,"Science and Technology",active
+1058,2010-1,"Science and Technology",innactive
+319,2010-2,"Science and Technology",active
+981,2010-2,"Science and Technology",innactive
+904,2011-1,"Science and Technology",active
+1254,2011-1,"Science and Technology",innactive
+741,2011-2,"Science and Technology",active
+1161,2011-2,"Science and Technology",innactive
+1370,2012-1,"Science and Technology",active
+1182,2012-1,"Science and Technology",innactive
+1405,2012-2,"Science and Technology",active
+1254,2012-2,"Science and Technology",innactive
+2017,2013-1,"Science and Technology",active
+930,2013-1,"Science and Technology",innactive
+2239,2013-2,"Science and Technology",active
+913,2013-2,"Science and Technology",innactive
+2751,2014-1,"Science and Technology",active
+594,2014-1,"Science and Technology",innactive
+2787,2014-2,"Science and Technology",active
+508,2014-2,"Science and Technology",innactive
+3715,2015-1,"Science and Technology",active
+15,2015-1,"Science and Technology",innactive
+150,2009-1,Humanities,active
+1741,2009-1,Humanities,innactive
+141,2009-2,Humanities,active
+1362,2009-2,Humanities,innactive
+491,2010-1,Humanities,active
+2378,2010-1,Humanities,innactive
+414,2010-2,Humanities,active
+2016,2010-2,Humanities,innactive
+1082,2011-1,Humanities,active
+2721,2011-1,Humanities,innactive
+875,2011-2,Humanities,active
+2702,2011-2,Humanities,innactive
+1700,2012-1,Humanities,active
+2520,2012-1,Humanities,innactive
+1766,2012-2,Humanities,active
+2357,2012-2,Humanities,innactive
+2741,2013-1,Humanities,active
+1594,2013-1,Humanities,innactive
+3136,2013-2,Humanities,active
+1581,2013-2,Humanities,innactive
+3840,2014-1,Humanities,active
+951,2014-1,Humanities,innactive
+3904,2014-2,Humanities,active
+863,2014-2,Humanities,innactive
+5149,2015-1,Humanities,active
+21,2015-1,Humanities,innactive
+513,2009-1,Health,innactive
+468,2009-2,Health,innactive
+104,2010-1,Health,active
+1256,2010-1,Health,innactive
+84,2010-2,Health,active
+1105,2010-2,Health,innactive
+423,2011-1,Health,active
+1795,2011-1,Health,innactive
+435,2011-2,Health,active
+1585,2011-2,Health,innactive
+832,2012-1,Health,active
+1856,2012-1,Health,innactive
+844,2012-2,Health,active
+1974,2012-2,Health,innactive
+1591,2013-1,Health,active
+1587,2013-1,Health,innactive
+1798,2013-2,Health,active
+1482,2013-2,Health,innactive
+2467,2014-1,Health,active
+864,2014-1,Health,innactive
+2450,2014-2,Health,active
+684,2014-2,Health,innactive
+3546,2015-1,Health,active
+9,2015-1,Health,innactive

@@ -1,0 +1,66 @@
+IHAC - Humanities, Arts and Science Institute
+========================================================
+author: Genaro Costa
+date: April, 2015
+
+History of the Institute
+========================================================
+
+The Humanities, Arts and Science Institute Milton Santos was created in 2009, and provides four main interdisciplinary courses:
+
+- Humanities
+- Arts
+- Health
+- Science and Tecnology
+
+The institute access all classes avaliable to all coursers of the Federal University of Bahia. The followin data where collected from the students curriculum.
+
+Active students on 2015, first semester
+========================================================
+
+```{r, echo=FALSE}
+    students <- read.csv('activeStudents.csv')
+```
+    
+In first smester of 2015 we had `r sum(students[1])` active students. 
+
+
+```{r, echo=FALSE, fig.width=7.5, fig.height=4.5, figs.only=TRUE, out.width='800px', dpi=200, fig.align='center'}
+    library(plotrix)
+    activeStudents <- as.data.frame(students)
+    slices <- activeStudents$Count
+    lbls <- activeStudents$course
+    pct <- round(slices/sum(slices)*100)
+    lbls <- paste(lbls, pct) # add percents to labels 
+    lbls <- paste(lbls,"%",sep="") # ad % to labels 
+    pie3D(slices,labels=lbls,explode=0.1)
+``` 
+
+Students application over years
+========================================================
+
+```{r,echo=FALSE,results = 'asis'}
+    library(rCharts)
+
+    ingress <- read.csv('progress.csv')
+    ingressStudents <- as.data.frame(ingress)
+    f1 <- nPlot(count ~ year, group = "course", data = ingressStudents, type = "multiBarChart")
+    # , y="Amount of Students", x= "Year"
+    f1$set(width = 800)
+    f1$set(height = 350)
+    f1$show('iframesrc',cdn = TRUE)
+```
+      
+Classes positions occupied by students
+========================================================
+
+```{r, echo=FALSE, results = 'asis'}
+
+    ingressClasses <- read.csv('progressClasses.csv')
+    classes <- as.data.frame(ingressClasses)
+    f2 <- xPlot(count ~ yearSemester, group='course', data=classes, type='line-dotted')
+    #  y="Positions in classes", x = "Year/Semester"
+    f2$set(width = 800)
+    f2$set(height = 300)
+    f2$show('iframesrc', cdn = TRUE)
+```

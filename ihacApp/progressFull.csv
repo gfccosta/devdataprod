@@ -1,0 +1,52 @@
+count,year,course,status
+40,2009,Arts,active
+202,2009,Arts,innactive
+58,2010,Arts,active
+174,2010,Arts,innactive
+152,2011,Arts,active
+73,2011,Arts,innactive
+200,2012,Arts,active
+42,2012,Arts,innactive
+244,2013,Arts,active
+19,2013,Arts,innactive
+201,2014,Arts,active
+10,2014,Arts,innactive
+250,2015,Arts,active
+14,2009,"Science and Technology",active
+83,2009,"Science and Technology",innactive
+57,2010,"Science and Technology",active
+143,2010,"Science and Technology",innactive
+137,2011,"Science and Technology",active
+94,2011,"Science and Technology",innactive
+183,2012,"Science and Technology",active
+58,2012,"Science and Technology",innactive
+265,2013,"Science and Technology",active
+28,2013,"Science and Technology",innactive
+218,2014,"Science and Technology",active
+20,2014,"Science and Technology",innactive
+248,2015,"Science and Technology",active
+34,2009,Humanities,active
+362,2009,Humanities,innactive
+73,2010,Humanities,active
+245,2010,Humanities,innactive
+180,2011,Humanities,active
+166,2011,Humanities,innactive
+272,2012,Humanities,active
+95,2012,Humanities,innactive
+400,2013,Humanities,active
+30,2013,Humanities,innactive
+325,2014,Humanities,active
+18,2014,Humanities,innactive
+354,2015,Humanities,active
+99,2009,Health,innactive
+21,2010,Health,active
+184,2010,Health,innactive
+82,2011,Health,active
+145,2011,Health,innactive
+140,2012,Health,active
+113,2012,Health,innactive
+247,2013,Health,active
+46,2013,Health,innactive
+250,2014,Health,active
+21,2014,Health,innactive
+259,2015,Health,active
